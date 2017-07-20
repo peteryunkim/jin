@@ -1,9 +1,10 @@
 import React from 'react'
 
 const main = () => {
+
 	return(
 		<div>
-		main
+			Main
 		</div>
 	)
 }
