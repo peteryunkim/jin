@@ -10,7 +10,7 @@ const matchingContainer = () => {
 		// if (jdict.jdict[answer] === "a"){
 		// 	console.log('true')
 		// }
-		console.log(jdict.jdict[answer])
+		// console.log(jdict.jdict[answer])
 	}
 
 	let tileForSounds = (sounds) => {
